@@ -30,7 +30,7 @@ public class GetAndPostExamples {
 	@Test
 	public void testPost() {
 		
-		Map<String, Object> map =new HashMap<String, Object>();
+	Map<String, Object> map =new HashMap<String, Object>();
 		
 		//map.put("Name", "Yuvansh");
 		//map.put("job","Student");
